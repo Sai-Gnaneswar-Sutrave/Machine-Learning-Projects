@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Repository containing ML Projects
+# Machine Learning Projects
+This repository contains various machine learning projects that I have worked on. Each project is organized in its own directory and includes the necessary code, data, and documentation to understand and reproduce the results.
